@@ -28,7 +28,7 @@ Here are some ideas to get you started: -->
     <br/>
 </div>
 
- ## ▎🛠 Blockchain
+ ## ▎Blockchain
  
  <img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
 
