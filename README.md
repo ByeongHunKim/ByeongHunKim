@@ -38,7 +38,7 @@ Here are some ideas to get you started: -->
 ![ethcoinbl](https://user-images.githubusercontent.com/82696921/177253229-c54ffad1-a0e1-41b0-b140-7ee3a50158a8.png)
 ![btccoin](https://user-images.githubusercontent.com/82696921/177253239-ff16e2e9-afc2-4bfb-80fc-574d8cdece9b.png)
 
-### Languages
+<!-- ### Languages
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=black">
 
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started: -->
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+ -->
 
 
 
