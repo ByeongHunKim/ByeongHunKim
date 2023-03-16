@@ -26,6 +26,8 @@ Here are some ideas to get you started: -->
     <a href="#"><img alt="ByeongHunKim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ByeongHunKim&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="ByeongHunKim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongHunKim&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <br/>
+    <a href="#"><img alt="ByeongHunKim's Algorithm level" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hunsman" height="200"/></a>
+    <br/>
 </div>
  
  <img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
